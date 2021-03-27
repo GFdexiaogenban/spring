@@ -9,7 +9,7 @@ Spring框架采用分层架构，根据不同的功能被划分成了多个模�
 7. Core Container
 8. Test
 
-![image-20210323162344706](D:\myNotes\img\Untitled\image-20210323162344706.png)
+![image-20210323162344706](.\img\image-20210323162344706.png)
 
 ### Data Access/Integration（数据访问／集成）
 
